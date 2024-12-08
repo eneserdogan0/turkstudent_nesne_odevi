@@ -1,0 +1,2 @@
+Nesne ödevini yap|True
+zeplin|False
